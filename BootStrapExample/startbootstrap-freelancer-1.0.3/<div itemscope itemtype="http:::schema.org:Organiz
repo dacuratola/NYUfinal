@@ -1,0 +1,11 @@
+<div itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="www.dominick.curatola"><div itemprop="name"><strong>Dominick Curatola</strong></div>
+</a>
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+<span itemprop="streetAddress">41 Purdy Avenue #611</span><br>
+<span itemprop="addressLocality">Rye</span><br>
+<span itemprop="addressRegion">New York</span><br>
+<span itemprop="postalCode">10580</span><br>
+<span itemprop="addressCountry">United States</span><br>
+</div>
+</div>
